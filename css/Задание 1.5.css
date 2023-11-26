@@ -1,0 +1,70 @@
+#lb,
+#lg,
+#lgy,
+#o {
+    width: 200px;
+    border: 1px solid black;
+}
+
+#lb {
+    background-color: lightblue;
+}
+
+
+#lg {
+    background-color: lightgreen;
+}
+
+
+#lgy {
+    background-color: lightgoldenrodyellow;
+}
+
+
+#o {
+    background-color: orange;
+}
+
+
+h3 {
+    font-family: cursive;
+}
+
+
+.th,
+.wd {
+    background-color: black;
+}
+
+.th {
+    color: white;
+}
+
+.wd {
+    color: red;
+}
+
+
+table table {
+    width: 200px;
+    border: 1px solid black;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+
+table table td {
+    border: 1px solid black;
+
+}
+
+
+#table0 {
+    margin-left: 510px;
+}
+
+
+h1 {
+    margin-left: 785px;
+    font-family: cursive;
+}
